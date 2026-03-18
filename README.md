@@ -2,7 +2,7 @@
 
 ## 서버 접속
 ```
-https://bowl-track-bay.vercel.app/login
+https://web-production-15af8.up.railway.app/
 ```
 ---
 
